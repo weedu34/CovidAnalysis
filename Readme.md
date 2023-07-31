@@ -1,3 +1,8 @@
-# Data set used
+# Data set
+I have used the following data set used for my data exploration project in SQL: 
+Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource]
 
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU5FWVVjMXp6SmZuNDkzTXNRUEFxOVBuMGNWZ3xBQ3Jtc0ttN19rMk5GSnpKM2g1YklVNHVZUzZtRXdRYkU1Ri13Zjh3T0pRSDVpdGp1bWVpOFkyZ2d6MGpRUzkzX0w5MzdJYjRwaDFobzBQcjYwSlRRSEs0VnFkVU9fdHJiRzU1RHZrWnNEVXMyWG9HWThhWi1YSQ&q=https%3A%2F%2Fourworldindata.org%2Fcovid-deaths&v=qfyynHBFOsM](https://ourworldindata.org/covid-deaths)https://ourworldindata.org/covid-deaths
+
+This project is entirely developed in SQL studio management, The link to SQL File is: [SQL_File](https://github.com/weedu34/CovidAnalysis/blob/main/SQLQuery1.sql)
+
+Data is downloaded through above mentioned link and then segmented into two separate Excel files named: **CovidDeaths.xlsx** which contains the country-wise data of all deaths that occurred and **CovidVaccinations.xlsx** contains vaccination data according to country and date.
