@@ -1,5 +1,5 @@
 ## Overview
-![Dashboard Preview]([dashboard_preview.png](https://github.com/weedu34/CovidAnalysis/blob/main/Dashboard%201.png))
+![Dashboard](https://github.com/weedu34/CovidAnalysis/blob/main/Dashboard%201.png)
 This Tableau dashboard provides visualizations of COVID-19 deaths and vaccinations in different parts of the world. It aims to offer insights into the pandemic's impact and the progress of vaccination efforts across various regions.
 
 ## Tableau Dashboard Link
