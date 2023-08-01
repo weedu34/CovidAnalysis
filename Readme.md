@@ -22,7 +22,7 @@ This project is entirely developed in SQL studio management, The link to SQL Fil
 
 Data is downloaded through above mentioned link and then segmented and modified into two separate Excel files named: **CovidDeaths.xlsx** which contains the country-wise data of all deaths that occurred and **CovidVaccinations.xlsx** contains vaccination data according to country and date.
 
-Please ensure the data is up-to-date and accurate, as the quality of the visualizations depends on the data integrity.
+Please ensure the data is up-to-date and accurate, as the quality of the visualizations depends on the data's integrity.
 
 
 ## Dashboard Setup
@@ -30,8 +30,8 @@ Please ensure the data is up-to-date and accurate, as the quality of the visuali
 To run the Tableau dashboard locally, you will need to have Tableau Desktop installed. Follow these steps:
 
 1. Clone this repository to your local machine.
-2. Open Tableau Desktop.
-3. Import the necessary data sources into Tableau.
+2. Export Excel files using the [SQL FILE](https://github.com/weedu34/CovidAnalysis/blob/main/TablaeuQuery.sql).
+3. Open Tableau Public.
 4. Connect the data sources to the visualizations in the dashboard.
 5. Customize the dashboard as needed.
 
